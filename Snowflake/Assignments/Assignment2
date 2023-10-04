@@ -49,3 +49,6 @@ select * from DEMO_DB.PUBLIC.EMPLOYEES
 where hire_date <='2021-01-01'
 
 
+
+
+
